@@ -37,7 +37,7 @@ This Python project provides a versatile and powerful solution for real-time log
    cd Realtime_Monitoring
    ```
 
-3. Install the required dependencies using `pip` ⚙️:
+3. Install the required dependencies using `pip` ⚙️
 
    ```bash
    pip install -r requirements.txt
